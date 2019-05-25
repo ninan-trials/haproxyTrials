@@ -1,0 +1,8 @@
+#Check machine statuses:
+vagrant status
+
+#Start vagrant machines if not running
+vagrant up 
+
+#SSH into the mgmt node
+vagrant ssh mgmt
